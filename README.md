@@ -77,3 +77,4 @@ In this project, we have explored the video data of three popular Cooking channe
 * Most videos have between 15 and 35 tags.
 * Videos are rarely uploaded on Mondays and Saturdays. Tuesday is the most popular weekday. 
 * Most popular dishes and ingredients are Homemade Chicken, Pie, Cookie, Sandwich, Chocolate, Fried Food. As well as Burger, Egg, Soup, Taco, Pizza, Bread, Cheese, Cake, Rice, Beef.
+ 
